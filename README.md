@@ -6,7 +6,7 @@ This repo is the result of my learning to make a simple homepage, I got a refere
 ![image home](https://github.com/noerardi/Simple-Homepage-Starbucks/blob/main/homepgae.PNG)
 
 ## Secondary Apperance
-![image home](https://github.com/noerardi/Simple-Homepage-Starbucks/blob/main/homepgea.PNG)
+![image home](https://github.com/noerardi/Simple-Homepage-Starbucks/blob/main/homepage2.PNG)
 
 ## Card Pop Up Promo
 ![image home](https://github.com/noerardi/Simple-Homepage-Starbucks/blob/main/promo1.PNG)
